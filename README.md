@@ -116,7 +116,7 @@ gap was driven by 18 Mac Pro transactions in Canada and Mexico.
 
 ## Dashboard
 View the interactive Tableau dashboard here:
-[Apple Global Sales Analysis Dashboard]([YOUR TABLEAU PUBLIC LINK])
+[Apple Global Sales Analysis Dashboard](https://public.tableau.com/views/AppleGlobalSalesAnalysis2022-2024/AppleGlobalSalesAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -130,6 +130,6 @@ View the interactive Tableau dashboard here:
 ---
 
 ## Author
-**[Brianna Owens]**
-[www.linkedin.com/in/brianna-owens-42253223a]
-[https://public.tableau.com/views/AppleGlobalSalesAnalysis2022-2024/AppleGlobalSalesAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+**Brianna Owens**
+[LinkedIn](www.linkedin.com/in/brianna-owens-42253223a)
+[Tableau Public](https://public.tableau.com/app/profile/brianna.owens)
